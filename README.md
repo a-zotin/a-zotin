@@ -38,7 +38,7 @@
 
 ## 📫 Контакты
 
-- **Резюме:** [добавить ссылку]
+- **Резюме:** [[Резюме на HH.ru](https://hh.ru/resume/b0eaa385ff10fd7ab10039ed1f7170736c516b)]
 - **Telegram:** [t.me/azotin](https://t.me/azotin)
 - **Email:** [sasha_zotin@mail.ru](mailto:sasha_zotin@mail.ru)
 
